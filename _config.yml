@@ -55,24 +55,24 @@ author:
     url: https://drakortivi.github.io
   - label: Twitter
     icon: fab fa-fw fa-twitter-square
-    url: #
+    url: 
   - label: GitHub
     icon: fab fa-fw fa-telegram
     url: https://t.me/drakorviagdrive
   - label: Instagram
     icon: fab fa-fw fa-instagram
-    url: #
+    url: 
 footer:
   links:
   - label: Twitter
     icon: fab fa-fw fa-twitter-square
-    url: #
+    url: 
   - label: Telegram
     icon: fab fa-fw fa-telegram
     url: https://t.me/drakorviagdrive
   - label: Instagram
     icon: fab fa-fw fa-instagram
-    url: #
+    url: 
 category_archive:
   type: liquid
   path: "/categories/"
