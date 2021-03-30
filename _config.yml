@@ -80,7 +80,7 @@ tag_archive:
   type: liquid
   path: "/tags/"
 head_scripts:
-  - https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css
+- https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css
 after_footer_scripts:
-  - https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js
-  - https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js
+- https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js
+- https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js
